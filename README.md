@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Rounak Anand</h1>
-<h3 align="center">Final Year B.Tech ECE Student | Embedded Systems • IoT • AI/ML Enthusiast</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Rounak%20Anand&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Final%20Year%20ECE%20Student%20%7C%20Embedded%20Systems%20%E2%80%A2%20IoT%20%E2%80%A2%20AI%2FML&descAlignY=55&descSize=18" />
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rounak-anand-74330130b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://github.com/rounakanand8-ops">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Embedded+Systems+%7C+IoT+%7C+AI-ML;Exploring+LLMs+%26+Fault+Diagnosis;Building+Practical+Engineering+Solutions&font=Fira%20Code&center=true&width=550&height=45&color=2a5298&vCenter=true&size=22" />
   </a>
-  <a href="mailto:rounakofficial008@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?color=success&label=Profile%20Views&query=%24.count&url=https://api.countapi.xyz/hit/rounakanand8-ops/profile" />
 </p>
 
 ---
@@ -67,11 +67,4 @@
 - Large Language Models (LLMs) & AI applications
 - Signal Processing & RF/Microwave Design (HFSS)
 
----
-
-### 📫 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/rounak-anand-74330130b" target="_blank">LinkedIn</a> •
-  <a href="mailto:rounakofficial008@gmail.com">Email</a>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=100&section=footer" />
