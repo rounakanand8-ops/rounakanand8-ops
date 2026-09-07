@@ -1,66 +1,86 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Rounak Anand</h1>
+<h3 align="center">Final Year B.Tech ECE Student | Embedded Systems • IoT • AI/ML Enthusiast</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05061A,50:1B1F3B,100:0B0E23&height=200&section=header&text=Rounak%20Anand&fontSize=55&fontColor=E8ECF7&animation=fadeIn&fontAlignY=38&desc=Final%20Year%20ECE%20Student%20%7C%20Embedded%20Systems%20%26%20AI&descAlignY=58&descSize=17&descColor=4FD8EB" width="100%"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/rounak-anand-74330130b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rounakofficial008@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=4FD8EB&center=true&vCenter=true&width=600&lines=Electronics+%26+Communication+Engineer;Embedded+Systems+%7C+Signal+Processing+%7C+AI;Exploring+LLMs%2C+ML+%26+Fault+Diagnosis+%F0%9F%9A%80" alt="Typing SVG" />
+---
 
-<a href="https://www.linkedin.com/in/rounak-anand-74330130b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:rounakofficial008@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+### 🚀 About Me
 
-</div>
+- 🎓 Final year **B.Tech in Electronics & Communication Engineering**
+- 🔭 Currently exploring **LLMs, Fault Diagnosis, and Machine Learning**
+- ⚡ Interested in **Embedded Systems, Signal Processing, and AI**
+- 🌱 Driven by curiosity for emerging technologies and their real-world applications
+- 🛠️ Focused on learning, building, and developing practical engineering solutions
+- 💬 Ask me about FPGA design, embedded systems, or ML for fault diagnosis
 
-<br/>
+---
 
-## 🧑‍🚀 About Me
+### 🧰 Languages & Tools
 
-- 🎓 Final-year B.Tech student in **Electronics and Communication Engineering**
-- 🛰️ Focused on **embedded systems, signal processing, and AI**
-- 🔭 Currently exploring **LLMs, machine learning, and fault diagnosis**
-- 🚀 I like understanding a system from the transistor up, and building things that actually run on real hardware
+**Programming Languages**
 
-<br/>
-
-## 🛠️ Skills
-
-**Languages**
-<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/VHDL-6D3FD1?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Verilog-0E7C86?style=for-the-badge&logoColor=white" />
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/VHDL-1e415e?style=flat-square" />
+  <img src="https://img.shields.io/badge/Verilog-4c1?style=flat-square" />
+</p>
 
 **Simulation & Design Software**
-<br/>
-<img src="https://img.shields.io/badge/Xilinx%20Vivado-1B1F3B?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Cadence-6D3FD1?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/ANSYS%20HFSS-FF6B35?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/NI%20Multisim-0E7C86?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Proteus-1B1F3B?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white" />
 
-**Hardware & Dev Boards**
-<br/>
-<img src="https://img.shields.io/badge/Xilinx%20PYNQ--Z2-1B1F3B?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Basys%203-6D3FD1?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Nexys%20A7-0E7C86?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+<p>
+  <img src="https://img.shields.io/badge/Xilinx%20Vivado-CC0000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cadence-00A0DF?style=flat-square" />
+  <img src="https://img.shields.io/badge/ANSYS%20HFSS-FFB71B?style=flat-square" />
+  <img src="https://img.shields.io/badge/NI%20Multisim-FF6600?style=flat-square" />
+  <img src="https://img.shields.io/badge/Proteus-008C45?style=flat-square" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" />
+</p>
 
-<br/>
+**Hardware & Boards**
 
-## 🔭 Currently Exploring
+<p>
+  <img src="https://img.shields.io/badge/Xilinx%20PYNQ--Z2-CC0000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Basys%203-CC0000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Digilent%20Nexys%20A7-CC0000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" />
+</p>
 
-<img src="https://img.shields.io/badge/LLMs-6D3FD1?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/Fault%20Diagnosis-1B1F3B?style=for-the-badge&logoColor=white" />
+---
 
-<br/>
+### 🔬 Areas of Interest
 
-<div align="center">
+- Embedded Systems & Hardware–Software Integration
+- FPGA Design & Digital Systems (VHDL/Verilog)
+- IoT (dashboards, APIs, mobile app integration)
+- Machine Learning for Mechanical Fault Diagnosis
+- Large Language Models (LLMs) & AI applications
+- Signal Processing & RF/Microwave Design (HFSS)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0E23,50:1B1F3B,100:05061A&height=100&section=footer" width="100%"/>
+---
 
-</div>
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rounak-anand&show_icons=true&theme=radical" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rounak-anand&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 📫 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rounak-anand-74330130b" target="_blank">LinkedIn</a> •
+  <a href="mailto:rounakofficial008@gmail.com">Email</a>
+</p>
