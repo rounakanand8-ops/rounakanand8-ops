@@ -69,15 +69,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rounakanand8-ops&show_icons=true&theme=radical" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rounakanand8-ops&layout=compact&theme=radical" />
-</p>
-
----
-
 ### 📫 Connect with Me
 
 <p align="center">
