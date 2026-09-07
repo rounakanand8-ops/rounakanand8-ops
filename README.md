@@ -1,57 +1,43 @@
-# 👋 Hi, I'm Rounak Anand
+<div align="center"> <!-- Animated header banner --> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3C72,100:2A5298&height=220&section=header&text=Hi%20There!%20I'm%20Rounak%20Anand&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20%7C%20IoT%20%7C%20AI%2FML%20%7C%20VLSI&descAlignY=58&descSize=18" width="100%"/> <!-- Typing animation --> <a href="#"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2A5298&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Final+Year+B.Tech+ECE+Student;Embedded+Systems+%7C+IoT+%7C+Hardware-Software+Integration;Exploring+AI%2C+LLMs+%26+Image+Processing;Building+with+Microcontrollers+%26+FPGAs" alt="Typing SVG" /> </a> <!-- Social badges: replace href/src links with your own --> <p> <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> </p> </div>
+🚀 About Me
+🎓 Final Year B.Tech student in Electronics & Communication Engineering
+🔭 Passionate about Embedded Systems, IoT, and Hardware–Software Integration
+🧠 Exploring real-world problem solving using microcontrollers & programming
+🤖 Also working on AI, LLMs, and Image Processing
+⚡ Hands-on experience with microcontrollers & microprocessors
+🛠️ Interested in Embedded Systems, IoT, VLSI, and Core Electronics
+📊 Worked on IoT dashboards, APIs, and mobile app integrations
+🧩 Exploring LLMs for fault diagnosis applications
+📈 Actively building projects to strengthen industry-ready skills
+🛠️ Tech Stack & Tools
+<div align="center">
 
-🎓 **3rd Year B.Tech Student | Electronics & Communication Engineering**  
-💡 Passionate about **Embedded Systems, IoT, and Hardware–Software Integration**  
-🚀 Exploring **real-world problem solving using microcontrollers & programming**
+Languages & Programming
 
----
+<img src="https://skillicons.dev/icons?i=c,python,cpp,arduino" />
 
-## 🧠 About Me
+Embedded / FPGA / Hardware
 
-- 🔧 Hands-on experience with **microcontrollers & microprocessors**
-- 🧑‍💻 Strong foundation in **C, Python, and Embedded Programming**
-- 🌐 Worked on **IoT dashboards, APIs, and mobile app integrations**
-- 📡 Interested in **Embedded Systems, IoT, VLSI, and Core Electronics**
-- 🎯 Actively building projects to strengthen industry-ready skills
+<img src="https://img.shields.io/badge/Xilinx%20Vivado-C1292E?style=for-the-badge&logo=xilinx&logoColor=white" /> <img src="https://img.shields.io/badge/PYNQ--Z2-000000?style=for-the-badge&logo=xilinx&logoColor=white" /> <img src="https://img.shields.io/badge/Basys%203-000000?style=for-the-badge&logo=digi-key&logoColor=white" /> <img src="https://img.shields.io/badge/Nexys%20A7-000000?style=for-the-badge&logo=digi-key&logoColor=white" />
 
----
+Simulation & Design
 
-## 🛠️ Technical Skills
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" /> <img src="https://img.shields.io/badge/NI%20Multisim-00629B?style=for-the-badge&logo=nationalinstruments&logoColor=white" /> <img src="https://img.shields.io/badge/Cadence-1F425F?style=for-the-badge&logo=cadence&logoColor=white" />
 
-### 🔹 Programming Languages
-- **C**
-- **Python**
-- Embedded C
+AI / ML / Data
 
-### 🔹 Microcontrollers & Boards
-- **Arduino Uno**
-- **ESP32**
-- **Raspberry Pi**
-- Worked with multiple **microprocessors & microcontrollers**
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
 
-### 🔹 Embedded & IoT Tools
-- **MIT App Inventor**
-- **RemoteXY**
-- **Postman API**
-- Serial Communication, Sensors & Actuators
+Web / App Integration
 
-### 🔹 Simulation & Design Software
-- **MATLAB**
-- **NI Multisim**
-- **Proteus**
-- **Cadence**
-- **Xilinx Vivado**
+<img src="https://skillicons.dev/icons?i=flask,fastapi,react,nodejs,firebase" /> </div>
+📊 GitHub Stats
+<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" /> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" /> </div> <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" /> </div>
+📈 Contribution Graph
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" width="100%"/> </div>
+🐍 Contribution Snake (animated)
+<div align="center"> <!-- This image is generated by a GitHub Action — see snake.yml --> <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%"/> </div>
 
----
+⚙️ To make the snake animation work, add the included snake.yml workflow to .github/workflows/ in your profile repo (the repo must be named exactly YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME). It regenerates the animated SVG automatically on a schedule.
 
-## 📂 Projects & Work
-
-🔸 Arduino & ESP32 based automation projects  
-🔸 IoT applications with mobile app control  
-🔸 API-based device communication  
-🔸 Circuit simulation & digital design projects  
-🔸 Embedded system prototyping  
-
-👉 *Check my repositories to see detailed project implementations.*
-
-
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2A5298,100:1E3C72&height=100&section=footer"/> </div>
